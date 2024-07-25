@@ -1,16 +1,5 @@
----
-title: WhizQ
-emoji: ⁉️
-colorFrom: blue
-colorTo: purple
-sdk: gradio
-sdk_version: 4.39.0
-app_file: script/game.gradio.py
-pinned: false
----
-
 # LingxiQuiz
- 基于文心大模型的20Q智能AI问答
+基于文心大模型的20Q智能AI问答
 
 ## 关于20Q游戏
 
