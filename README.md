@@ -1,4 +1,4 @@
-# LingxiQuiz
+# WhizQ
 基于文心大模型的20Q智能AI问答
 
 ## 关于20Q游戏
